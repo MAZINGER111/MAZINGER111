@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @MAZINGER111
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on website projects 
 - 📫 How to reach me hussainmonsur18@gmail.com
 
 <!---
